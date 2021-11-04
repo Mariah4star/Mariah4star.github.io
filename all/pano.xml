@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" apprev="18080" start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2269" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2269">
+      <level preload="0" width="2269" predecode="0" height="2269"/>
+      <level preload="0" width="1134" predecode="0" height="1134"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-211">
+      <start tilt="-0.252199" projection="4" pan="56.3141" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="0 Front" copyright="" customnodeid="" author="" latitude="40.71776463" datetime="" nodeid="node1" longitude="-111.85251837" heading="-211" description="" comment="" title="Sugarhouse Architects LLC" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0.4" url="{node2}" pan="-308.18" id="Point01" skinid="ht_node" distance="7.26185" description="" target="$fwd" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="18.580" pan="-154.580" id="Element01" loop="5" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="5.560" pan="-104.500" id="Element02" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2269" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2269">
+      <level preload="0" width="2269" predecode="0" height="2269"/>
+      <level preload="0" width="1134" predecode="0" height="1134"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="105">
+      <start tilt="4.3644" projection="4" pan="17.1764" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="1 Parking" copyright="" customnodeid="" author="" latitude="40.71776209" datetime="" nodeid="node2" longitude="-111.85243227" heading="105" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="18.21" url="{node3}" pan="-71.1354" id="Point01" skinid="ht_node" distance="3.3946" description="" target="$fwd" title=""/>
+      <hotspot tilt="0" url="{node1}" pan="192.771" id="Point02" skinid="ht_node" distance="7.26185" description="" target="$fwd" title="Sugarhouse Architects LLC"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="39.590" pan="-164.740" id="Element01" loop="5" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="17.720" pan="-153.500" id="Element02" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2267" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2267">
+      <level preload="0" width="2267" predecode="0" height="2267"/>
+      <level preload="0" width="1133" predecode="0" height="1133"/>
+      <level preload="0" width="566" predecode="0" height="566"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-147">
+      <start tilt="4.24703" projection="4" pan="25.8438" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="2 Stairs" copyright="" customnodeid="" author="" latitude="40.71773160" datetime="" nodeid="node3" longitude="-111.85243025" heading="-147" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="3.63" url="{node4}" pan="-269.933" id="Point02" skinid="ht_node" distance="2.87042" description="" target="$fwd" title=""/>
+      <hotspot tilt="3.87" url="{node5}" pan="-258.149" id="Point03" skinid="ht_node" distance="5.33251" description="" target="$fwd" title=""/>
+      <hotspot tilt="-25.49" url="{node2}" pan="-149.15" id="Point04" skinid="ht_node" distance="3.3946" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="12.790" pan="-348.590" id="Element02" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+      <image handcursor="0" tilt="8.740" rotx="10.000" pan="-245.330" stretch="1.000" id="Element01" rotz="0.000" width="1080" clickmode="1" fov="30.000" roty="7.000" height="1136">
+        <source url="media/Screen Shot 2021-10-21 at 8.57.45 AM.png"/>
+      </image>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2267" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2267">
+      <level preload="0" width="2267" predecode="0" height="2267"/>
+      <level preload="0" width="1133" predecode="0" height="1133"/>
+      <level preload="0" width="566" predecode="0" height="566"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="84">
+      <start tilt="4.46435" projection="4" pan="-16.4753" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="3 Top Hill" copyright="" customnodeid="" author="" latitude="40.71771636" datetime="" nodeid="node4" longitude="-111.85240276" heading="84" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="2.5" url="{node7}" pan="-24.4894" id="Point01" skinid="ht_node" distance="3.36309" description="" target="$fwd" title=""/>
+      <hotspot tilt="5.57" url="{node5}" pan="-355.845" id="Point02" skinid="ht_node" distance="2.83898" description="" target="$fwd" title=""/>
+      <hotspot tilt="0" url="{node3}" pan="137.817" id="Point03" skinid="ht_node" distance="2.87042" description="" target="$fwd" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="15.370" pan="-172.540" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+      <lensflare color="0xffffff" tilt="30.160" pan="-165.370" id="Lensflare01" alpha="80.000" blinding="50.000" type="1"/>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2270" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2270">
+      <level preload="0" width="2270" predecode="0" height="2270"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="36">
+      <start tilt="-2.46319" projection="4" pan="-46.1165" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="4 By Front Door" copyright="" customnodeid="" author="" latitude="40.71771889" datetime="" nodeid="node5" longitude="-111.85236924" heading="36" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0" url="{node4}" pan="131.687" id="Point01" skinid="ht_node" distance="2.83898" description="" target="$fwd" title=""/>
+      <hotspot tilt="0" url="{node7}" pan="-136.38" id="Point02" skinid="ht_node" distance="1.70971" description="" target="$fwd" title=""/>
+      <hotspot tilt="15.44" url="{node34}" pan="-314.13" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="14.010" pan="-211.940" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="5 Front Door" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node34" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-9.96" url="{node5}" pan="-157.48" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="2.000" tiltsize="2.000" tilt="-3.390" pan="-53.530" id="Element01" loop="2" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="3" field="13.000">
+        <source url="media/Mailbox grandpa_s.mp3"/>
+      </sound>
+      <sound pansize="5.000" tiltsize="5.000" tilt="-10.620" pan="-2.870" id="Element02" loop="3" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="3" field="41.000">
+        <source url="media/Doorbell front.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="13.020" pan="-225.130" id="Element03" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-244">
+      <start tilt="-0.195739" projection="4" pan="23.2675" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="1 Gate" copyright="" customnodeid="" author="" latitude="40.71770365" datetime="" nodeid="node7" longitude="-111.85236655" heading="-244" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="2.94" url="{node4}" pan="-171.739" id="Point01" skinid="ht_node" distance="3.36309" description="" target="$fwd" title=""/>
+      <hotspot tilt="1.84" url="{node3}" pan="-185.227" id="Point02" skinid="ht_node" distance="6.20323" description="" target="$fwd" title=""/>
+      <hotspot tilt="1.79" url="{node8}" pan="-336.655" id="Point03" skinid="ht_node" distance="3.1087" description="" target="$fwd" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="6.000" tiltsize="6.000" tilt="-21.250" pan="-6.960" id="Element01" loop="1" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="1.000" mode="3" field="30.000">
+        <source url="media/Gate opening.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="14.500" pan="-166.650" id="Element02" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="3" field="80.000">
+        <source url="media/Grandpa_s frontyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2270" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2270">
+      <level preload="0" width="2270" predecode="0" height="2270"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-266">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="1.5 Back Door" copyright="" customnodeid="" author="" latitude="40.71770314" datetime="" nodeid="node8" longitude="-111.85232967" heading="-266" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-0.46" url="{node7}" pan="-181.825" id="Point02" skinid="ht_node" distance="3.1087" description="" target="$fwd" title=""/>
+      <hotspot tilt="-0.46" url="{node7}" pan="-181.825" id="Point02" skinid="ht_node" distance="3.1087" description="" target="$fwd" title=""/>
+      <hotspot tilt="1.74" url="{node35}" pan="-360.36" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="11.43" url="{node39}" pan="-278.48" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="4.000" tiltsize="4.000" tilt="-8.700" pan="-248.470" id="Element01" loop="2" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="3" field="19.000">
+        <source url="media/Door bell Back.mp3"/>
+      </sound>
+      <sound pansize="8.000" tiltsize="8.000" tilt="24.420" pan="-278.520" id="Element02" loop="2" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="1.000" mode="3" field="60.000">
+        <source url="media/Grandpa Backdoor.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="14.900" pan="-5.340" id="Element03" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="3" field="60.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2270" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2270">
+      <level preload="0" width="2270" predecode="0" height="2270"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.190068" projection="4" pan="40.1985" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="2.2 To Garage FIX" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node35" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0.44" url="{node10}" pan="-229.76" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-0.97" url="{node8}" pan="-138.65" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="1.26" url="{node36}" pan="-316.18" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="8.130" pan="-216.890" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+      <lensflare color="0xffffff" tilt="26.190" pan="-119.690" id="Lensflare01" alpha="80.000" blinding="50.000" type="1"/>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2270" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2270">
+      <level preload="0" width="2270" predecode="0" height="2270"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-19">
+      <start tilt="1.005" projection="4" pan="-15.7309" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="2.5 Back by House" copyright="" customnodeid="" author="" latitude="40.71776057" datetime="" nodeid="node10" longitude="-111.85224250" heading="-19" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="2.31" url="{node35}" pan="-193.04" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="1.09" url="{node38}" pan="-100.65" id="Point02" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="14.300" pan="-34.530" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2273" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2273">
+      <level preload="0" width="2273" predecode="0" height="2273"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.474819" projection="4" pan="22.7357" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="3 Front of Garage" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node36" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0.3" url="{node35}" pan="-153.81" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="3.04" url="{node14}" pan="-287.4" id="Point04" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="6.04" url="{node37}" pan="-323.39" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="2.37" url="{node38}" pan="-244.82" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="20.000" pan="-192.060" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+      <lensflare color="0xffffff" tilt="27.810" pan="-133.330" id="Lensflare01" alpha="80.000" blinding="50.000" type="1"/>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2282" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2282">
+      <level preload="0" width="2282" predecode="0" height="2282"/>
+      <level preload="0" width="1141" predecode="0" height="1141"/>
+      <level preload="0" width="570" predecode="0" height="570"/>
+      <level preload="1" width="285" predecode="1" height="285"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.97748" projection="4" pan="35.7781" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="4 Garage" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node37" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-2.43" url="{node36}" pan="-146.24" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="7.520" pan="-37.360" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.200" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2274" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2274">
+      <level preload="0" width="2274" predecode="0" height="2274"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.557555" projection="4" pan="-102.615" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="5 Middle Back " copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node38" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="1.98" url="{node36}" pan="-200.53" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="2.07" url="{node14}" pan="-106.12" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="2.25" url="{node10}" pan="-294.36" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="14.440" pan="-41.690" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2275" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2275">
+      <level preload="0" width="2275" predecode="0" height="2275"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="65">
+      <start tilt="-1.30616" projection="4" pan="-25.6781" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="6 Front Patio" copyright="" customnodeid="" author="" latitude="40.71777225" datetime="" nodeid="node14" longitude="-111.85211107" heading="65" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0" url="{node15}" pan="-8.945" id="Point02" skinid="ht_node" distance="4.70416" description="" target="$fwd" title=""/>
+      <hotspot tilt="0.7" url="{node38}" pan="-202.78" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="5.460" pan="-231.500" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+      <lensflare color="0xffffff" tilt="26.740" pan="-188.800" id="Lensflare01" alpha="80.000" blinding="50.000" type="1"/>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-225">
+      <start tilt="-7.02152" projection="4" pan="55.4761" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="7 Patio" copyright="" customnodeid="" author="" latitude="40.71778395" datetime="" nodeid="node15" longitude="-111.85205743" heading="-225" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0" url="{node14}" pan="-118.945" id="Point01" skinid="ht_node" distance="4.70416" description="" target="$fwd" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="2.780" pan="-160.040" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="3" field="90.000">
+        <source url="media/Grandpa_s backyard.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2271" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2271">
+      <level preload="0" width="2271" predecode="0" height="2271"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.72286" projection="4" pan="157.618" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="1 Back Door " copyright="" customnodeid="" author="" latitude="" datetime="9/9/22 7:06 AM" nodeid="node39" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-34.43" url="{node40}" pan="-205.02" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="14.1" url="{node42}" pan="-150.22" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="3.88" url="{node8}" pan="-19.41" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="2.790" pan="-184.470" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="0.650" pan="-35.470" id="Element02" loop="1" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="3" field="35.000">
+        <source url="media/Grandpa_s backdoor.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2275" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2275">
+      <level preload="0" width="2275" predecode="0" height="2275"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="3.17561" projection="4" pan="21.9772" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="2 Down Stairs" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node40" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-3.97" url="{node41}" pan="-224.77" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="31.47" url="{node39}" pan="-157.69" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="13.940" pan="-274.780" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="24.590" pan="-72.080" id="Element02" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2274" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2274">
+      <level preload="0" width="2274" predecode="0" height="2274"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.56623" projection="4" pan="-4.3316" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="3 Laundry Room " copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node41" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-5.41" url="{node40}" pan="-178.15" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="9.560" pan="-330.010" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-7.00764" projection="4" pan="-20.3701" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="4 Intro To Kitchen" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node42" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-21.76" url="{node39}" pan="-187.47" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-2.54" url="{node43}" pan="-292.75" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="1.27" url="{node22}" pan="-80.73" id="Point04" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="13.600" pan="-90.090" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2271" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2271">
+      <level preload="0" width="2271" predecode="0" height="2271"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.51031" projection="4" pan="24.9574" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="5 Kitchen" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node43" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="1.38" url="{node42}" pan="-140.3" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="11.960" pan="-181.740" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <sound pansize="10.000" tiltsize="10.000" tilt="1.930" pan="-109.940" id="Element02" loop="2" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.200" mode="3" field="50.000">
+        <source url="media/Grandpa_s Fridge.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2274" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2274">
+      <level preload="0" width="2274" predecode="0" height="2274"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.4755" projection="4" pan="43.7214" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="7.3 Dining Room" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node44" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-2.26" url="{node22}" pan="-141.92" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="3.660" pan="-309.440" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2289" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2289">
+      <level preload="0" width="2289" predecode="0" height="2289"/>
+      <level preload="0" width="1144" predecode="0" height="1144"/>
+      <level preload="0" width="572" predecode="0" height="572"/>
+      <level preload="1" width="286" predecode="1" height="286"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.67493" projection="4" pan="-13.2295" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="7 Hall by Kitchen" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node22" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-2" url="{node44}" pan="-14.84" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-4.2" url="{node45}" pan="-279.52" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-3.79" url="{node42}" pan="-188.49" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="17.110" pan="-318.490" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2273" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2273">
+      <level preload="0" width="2273" predecode="0" height="2273"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.54989" projection="4" pan="4.95257" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="8 Middle Hall" copyright="" customnodeid="" author="" latitude="" datetime="9/9/22 7:47 AM" nodeid="node45" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-1.35" url="{node22}" pan="-169.84" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-3.3" url="{node27}" pan="-12.24" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="1.24" url="{node29}" pan="-269.62" id="Point04" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="19.340" pan="-302.730" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <image handcursor="0" tilt="12.170" rotx="7.000" pan="-88.250" stretch="1.000" id="Element02" rotz="1.000" width="1170" clickmode="4" fov="11.300" roty="0.000" height="1722">
+        <source url="media/yPVrOLjA.jpeg"/>
+      </image>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2273" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2273">
+      <level preload="0" width="2273" predecode="0" height="2273"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9 Hall by Bathroom" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node46" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-1.67" url="{node26}" pan="-116.63" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-4.79" url="{node27}" pan="-45.03" id="Point03" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="1.11" url="{node45}" pan="-205.58" id="Point04" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="30.360" pan="-304.860" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2294" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2294">
+      <level preload="0" width="2294" predecode="0" height="2294"/>
+      <level preload="0" width="1147" predecode="0" height="1147"/>
+      <level preload="0" width="573" predecode="0" height="573"/>
+      <level preload="1" width="286" predecode="1" height="286"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.135679" projection="4" pan="-12.077" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.3 Bathroom" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node26" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="4.43" url="{node46}" pan="-205.75" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="9.280" pan="-8.890" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.50717" projection="4" pan="31.6942" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.4 Bedroom Intro" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node27" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-5.4" url="{node28}" pan="-324.3" id="Point03" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-2.86" url="{node46}" pan="-169.87" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="6.100" pan="-16.980" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2274" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2274">
+      <level preload="0" width="2274" predecode="0" height="2274"/>
+      <level preload="0" width="1137" predecode="0" height="1137"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.5 Bedroom By BED" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node28" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-3.31" url="{node27}" pan="-177.27" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="-2.210" pan="-16.200" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2271" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2271">
+      <level preload="0" width="2271" predecode="0" height="2271"/>
+      <level preload="0" width="1135" predecode="0" height="1135"/>
+      <level preload="0" width="567" predecode="0" height="567"/>
+      <level preload="1" width="283" predecode="1" height="283"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.20807" projection="4" pan="-2.21428" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.6 Front Room By Hall" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node29" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-1.33" url="{node32}" pan="-347.46" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-3.38" url="{node30}" pan="-57.63" id="Point02" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-1.15" url="{node45}" pan="-183.57" id="Point03" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="-4.840" pan="-11.620" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2273" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2273">
+      <level preload="0" width="2273" predecode="0" height="2273"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.28768" projection="4" pan="-40.2664" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.7 Middle Front Room" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node30" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-0.03" url="{node29}" pan="-250.68" id="Point01" skinid="ht_node" description="" target="" title=""/>
+      <hotspot tilt="-4.24" url="{node33}" pan="-21.05" id="Point02" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="-7.990" pan="-7.220" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.500" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-7.39602" projection="4" pan="-16.4816" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.8 By TV Front Room" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node33" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-4.76" url="{node30}" pan="-216.84" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="5.170" pan="-164.720" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.400" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <video rotx="-22.000" stretch="1.000" ambientlevel="0.000" roty="-12.000" handcursor="0" pan="-103.450" pansize="10.000" field="90.000" tiltsize="10.000" mode="2" width="1192" height="1746" clickmode="2" loop="1" nodechangekeep="0" fov="11.748" tilt="-17.500" rotz="-5.000" startmutedmobile="0" id="Element02" level="1.000">
+        <source url="media/gvideo.mp4"/>
+      </video>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2272" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" height="2272">
+      <level preload="0" width="2272" predecode="0" height="2272"/>
+      <level preload="0" width="1136" predecode="0" height="1136"/>
+      <level preload="0" width="568" predecode="0" height="568"/>
+      <level preload="1" width="284" predecode="1" height="284"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.58744" projection="4" pan="13.1137" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata tags="9.9 By Front Door" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="node32" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" borderalpha="1" wordwrap="1" textcolor="0x000000" width="180" border="1" background="1" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-0.48" url="{node29}" pan="-166.18" id="Point01" skinid="ht_node" description="" target="" title=""/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" tiltsize="10.000" tilt="-9.750" pan="-29.130" id="Element01" loop="4" nodechangekeep="0" startmutedmobile="0" ambientlevel="0.000" level="0.300" mode="2" field="90.000">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomout="0" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="20" zoomin="0" zoomafterinfov="90" zoomfov="20" zoomoutpause="1" type="crossdissolve" zoomspeed="2"/>
+    <autorotate nodedelay="0.00" enabled="1" speed="0.020" delay="5.00" returntohorizon="0.000" startloaded="0" noderandom="1" nodefilter="" useanimation="0"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" customnodeid="" author="" latitude="" datetime="" nodeid="master" longitude="" heading="0" description="" comment="" title="" source="" info=""/>
+  </masternode>
+</tour>
