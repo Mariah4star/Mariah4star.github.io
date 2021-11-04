@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.11" apprev="18043">
+  <panorama id="node2">
+    <input overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2266" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2266" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2266" width="2266" preload="0"/>
+      <level predecode="0" height="1133" width="1133" preload="0"/>
+      <level predecode="0" height="566" width="566" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="81" fovmode="0">
+      <start pan="172.644" fov="73.2361" tilt="-2.02644" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774451" longitude="-111.85185894" heading="81" title="Sandy Library" comment="" description="" author="" info="" nodeid="node2" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node3}" pan="174.03" title="Sandy Library" description="" tilt="0.32" skinid="ht_node" distance="3.07745" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-186.940" field="90.000" mode="3" nodechangekeep="0" tilt="-2.910" loop="1" pansize="10.000" id="Element01" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2271" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2271" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2271" width="2271" preload="0"/>
+      <level predecode="0" height="1135" width="1135" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="251" fovmode="0">
+      <start pan="-9.13001" fov="70" tilt="-3.83947" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774145" longitude="-111.85189515" heading="251" title="Sandy Library" comment="" description="" author="" info="" nodeid="node3" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node2}" pan="166.298" title="Sandy Library" description="" tilt="0.91" skinid="ht_node" distance="3.07745" id="Point01"/>
+      <hotspot target="$fwd" url="{node4}" pan="351.249" title="Sandy Library" description="" tilt="-0.04" skinid="ht_node" distance="3.45604" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-7.460" field="90.000" mode="3" nodechangekeep="0" tilt="-4.150" loop="1" pansize="10.000" id="Element01" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-193.420" field="90.000" mode="3" nodechangekeep="0" tilt="-4.030" loop="1" pansize="10.000" id="Element02" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2269" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2269" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2269" width="2269" preload="0"/>
+      <level predecode="0" height="1134" width="1134" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-69" fovmode="0">
+      <start pan="34.0544" fov="70" tilt="-0.276805" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774196" longitude="-111.85193606" heading="-69" title="Sandy Library" comment="" description="" author="" info="" nodeid="node4" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node2}" pan="-147.52" title="Sandy Library" description="" tilt="0.64" skinid="ht_node" distance="6.52033" id="Point01"/>
+      <hotspot target="$fwd" url="{node3}" pan="-150.301" title="Sandy Library" description="" tilt="0.34" skinid="ht_node" distance="3.45604" id="Point02"/>
+      <hotspot target="$fwd" url="{node5}" pan="36.6897" title="Sandy Library" description="" tilt="-0.4" skinid="ht_node" distance="3.00413" id="Point03"/>
+    </hotspots>
+    <media>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-149.580" field="90.000" mode="3" nodechangekeep="0" tilt="-4.060" loop="1" pansize="10.000" id="Element01" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2268" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2268" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2268" width="2268" preload="0"/>
+      <level predecode="0" height="1134" width="1134" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="220" fovmode="0">
+      <start pan="-49.3099" fov="70" tilt="-1.23756" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774298" longitude="-111.85197160" heading="220" title="Sandy Library" comment="" description="" author="" info="" nodeid="node5" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node3}" pan="136.224" title="Sandy Library" description="" tilt="-0.08" skinid="ht_node" distance="6.45981" id="Point01"/>
+      <hotspot target="$fwd" url="{node7}" pan="308.441" title="Sandy Library" description="" tilt="0.46" skinid="ht_node" distance="5.68652" id="Point02"/>
+      <hotspot target="$fwd" url="{node6}" pan="44.6068" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="8.46593" id="Point03"/>
+      <hotspot target="$fwd" url="{node4}" pan="139.389" title="Sandy Library" description="" tilt="-0.71" skinid="ht_node" distance="3.00413" id="Point04"/>
+    </hotspots>
+    <media>
+      <video rotz="0.000" handcursor="0" clickmode="1" tilt="6.910" field="69.000" fov="14.130" id="Element01" tiltsize="4.000" width="110" pan="-270.380" mode="3" stretch="1.000" ambientlevel="0.100" level="1.000" nodechangekeep="0" pansize="8.000" rotx="-7.000" height="100" loop="1" startmutedmobile="0" roty="-5.000">
+        <source url="media/Intellectual Freedom - Elton John Philadelphia  Freedom (Parody).mp4"/>
+      </video>
+      <image pan="-27.450" rotx="-1.000" fov="10.177" height="400" clickmode="4" handcursor="0" tilt="1.070" roty="-60.000" rotz="4.000" width="600" id="Element02" stretch="1.000">
+        <source url="media/Calling 4 Art Real-01.png"/>
+      </image>
+      <image pan="-45.690" rotx="0.000" fov="4.578" height="400" clickmode="4" handcursor="0" tilt="-5.910" roty="25.000" rotz="0.000" width="600" id="Element04" stretch="1.000">
+        <source url="media/Dracula Real-01.png"/>
+      </image>
+      <image pan="-70.120" rotx="6.000" fov="2.533" height="400" clickmode="4" handcursor="0" tilt="1.820" roty="12.000" rotz="0.000" width="600" id="Element05" stretch="1.000">
+        <source url="media/Sher-Lock Real-01.png"/>
+      </image>
+      <image pan="-60.430" rotx="0.000" fov="1.067" height="400" clickmode="0" handcursor="0" tilt="0.610" roty="0.000" rotz="0.000" width="600" id="Element06" stretch="1.000">
+        <source url="media/Tales and Tails-01.png"/>
+      </image>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-223.530" field="90.000" mode="3" nodechangekeep="0" tilt="-3.450" loop="1" pansize="10.000" id="Element03" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2270" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2270" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2270" width="2270" preload="0"/>
+      <level predecode="0" height="1135" width="1135" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="225" fovmode="0">
+      <start pan="44.7298" fov="70" tilt="-2.87416" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56766709" longitude="-111.85196355" heading="225" title="Sandy Library" comment="" description="" author="" info="" nodeid="node6" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node5}" pan="229.607" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="8.46593" id="Point01"/>
+      <hotspot target="$fwd" url="{node4}" pan="209.415" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="8.64292" id="Point02"/>
+      <hotspot target="$fwd" url="{node3}" pan="190.056" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="10.087" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2270" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2270" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2270" width="2270" preload="0"/>
+      <level predecode="0" height="1135" width="1135" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-88" fovmode="0">
+      <start pan="7.21214" fov="70" tilt="-0.486236" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774757" longitude="-111.85203865" heading="-88" title="Sandy Library" comment="" description="" author="" info="" nodeid="node7" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node5}" pan="-183.149" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="5.68652" id="Point01"/>
+      <hotspot target="$fwd" url="{node10}" pan="-88.2157" title="Sandy Library" description="" tilt="0.15" skinid="ht_node" distance="9.29432" id="Point02"/>
+      <hotspot target="$fwd" url="{node8}" pan="1.07493" title="Sandy Library" description="" tilt="0.08" skinid="ht_node" distance="16.8787" id="Point03"/>
+    </hotspots>
+    <media>
+      <image pan="-290.240" rotx="0.000" fov="15.160" height="400" clickmode="4" handcursor="0" tilt="3.740" roty="-11.000" rotz="3.000" width="600" id="Element01" stretch="1.000">
+        <source url="media/Calling 4 Art Real-01.png"/>
+      </image>
+      <image pan="-322.440" rotx="-7.000" fov="12.840" height="400" clickmode="4" handcursor="0" tilt="-11.140" roty="18.000" rotz="4.000" width="600" id="Element02" stretch="1.000">
+        <source url="media/Dracula Real-01.png"/>
+      </image>
+      <image pan="-32.030" rotx="-4.000" fov="5.200" height="400" clickmode="4" handcursor="0" tilt="3.880" roty="-18.000" rotz="0.000" width="600" id="Element03" stretch="1.000">
+        <source url="media/Sher-Lock Real-01.png"/>
+      </image>
+      <image pan="-9.400" rotx="-7.000" fov="1.733" height="400" clickmode="0" handcursor="0" tilt="2.110" roty="-11.000" rotz="0.000" width="600" id="Element04" stretch="1.000">
+        <source url="media/Tales and Tails-01.png"/>
+      </image>
+      <sound level="1.000" startmutedmobile="0" ambientlevel="0.000" pan="-177.180" field="90.000" mode="3" nodechangekeep="0" tilt="-1.430" loop="1" pansize="10.000" id="Element05" tiltsize="10.000">
+        <source url="media/library doors.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2267" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2267" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2267" width="2267" preload="0"/>
+      <level predecode="0" height="1133" width="1133" preload="0"/>
+      <level predecode="0" height="566" width="566" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-92" fovmode="0">
+      <start pan="-17.832" fov="70" tilt="-1.50433" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56774859" longitude="-111.85223847" heading="-92" title="Sandy Library" comment="" description="" author="" info="" nodeid="node8" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node7}" pan="-194.328" title="Sandy Library" description="" tilt="-1.16" skinid="ht_node" distance="16.8787" id="Point01"/>
+    </hotspots>
+    <media>
+      <image pan="-237.860" rotx="0.000" fov="14.270" height="400" clickmode="4" handcursor="0" tilt="2.560" roty="39.000" rotz="-3.000" width="600" id="Element01" stretch="1.000">
+        <source url="media/Calling 4 Art Real-01.png"/>
+      </image>
+      <image pan="-217.330" rotx="-2.000" fov="8.220" height="400" clickmode="4" handcursor="0" tilt="-5.200" roty="54.000" rotz="0.000" width="600" id="Element02" stretch="1.000">
+        <source url="media/Dracula Real-01.png"/>
+      </image>
+      <image pan="-135.550" rotx="4.000" fov="5.640" height="400" clickmode="4" handcursor="0" tilt="9.120" roty="-4.000" rotz="0.000" width="600" id="Element03" stretch="1.000">
+        <source url="media/Sher-Lock Real-01.png"/>
+      </image>
+      <image pan="-38.700" rotx="3.000" fov="5.560" height="400" clickmode="4" handcursor="0" tilt="3.270" roty="-4.000" rotz="0.000" width="600" id="Element04" stretch="1.000">
+        <source url="media/Tales and Tails-01.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2270" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2270" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2270" width="2270" preload="0"/>
+      <level predecode="0" height="1135" width="1135" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1" fovmode="0">
+      <start pan="-12.3284" fov="70" tilt="-6.21111" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56783110" longitude="-111.85203463" heading="-1" title="Sandy Library" comment="" description="" author="" info="" nodeid="node10" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node7}" pan="176.906" title="Sandy Library" description="" tilt="0" skinid="ht_node" distance="9.29432" id="Point01"/>
+      <hotspot target="" url="{node11}" pan="-17.2" title="Sandy Library" description="" tilt="-3.62" skinid="ht_node" distance="7.71106" id="Point02"/>
+    </hotspots>
+    <media>
+      <image pan="-196.140" rotx="0.000" fov="6.267" height="400" clickmode="0" handcursor="0" tilt="1.980" roty="-12.000" rotz="0.000" width="600" id="Element01" stretch="1.000">
+        <source url="media/Calling 4 Art Real-01.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2269" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" width="2269" levelbias="0.400" leveltilesize="510">
+      <level predecode="0" height="2269" width="2269" preload="0"/>
+      <level predecode="0" height="1134" width="1134" preload="0"/>
+      <level predecode="0" height="567" width="567" preload="0"/>
+      <level predecode="1" height="283" width="283" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-8" fovmode="0">
+      <start pan="-23.2699" fov="70" tilt="-8.14659" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata latitude="40.56790038" longitude="-111.85203061" heading="-8" title="Sandy Library" comment="" description="" author="" info="" nodeid="node11" source="" tags="0 All for Pano2VR" datetime="" customnodeid="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" background="1" borderalpha="1" bordercolor="0x000000" backgroundalpha="1" height="20" enabled="1" width="180" backgroundcolor="0xffffff" border="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" url="{node10}" pan="157.336" title="Sandy Library" description="" tilt="-0.94" skinid="ht_node" distance="7.71106" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" blendtime="1" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20"/>
+    <autorotate delay="5.00" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" useanimation="0" speed="0.020" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="1.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextprojections="0" lockedmouse="0" speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" longitude="" heading="0" title="" comment="" description="" author="" info="" nodeid="master" source="" tags="" datetime="" customnodeid="" copyright=""/>
+  </masternode>
+</tour>
