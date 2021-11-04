@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" apprev="18080" start="node29">
+  <panorama id="node29">
+    <input height="2271" levelbias="0.400" width="2271" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelingpitch="0">
+      <level height="2271" width="2271" preload="0" predecode="0"/>
+      <level height="1135" width="1135" preload="0" predecode="0"/>
+      <level height="567" width="567" preload="0" predecode="0"/>
+      <level height="283" width="283" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-2.21428" tilt="-2.20807" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node29" customnodeid="" tags="9.6 Front Room By Hall" latitude="" title="" heading="0" source="" info="" longitude="" description="" author="" copyright="" datetime="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" backgroundalpha="1" width="180" background="1" borderalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-57.63" title="" tilt="-3.38" url="{node30}" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound id="Element01" mode="2" pan="-11.620" field="90.000" ambientlevel="0.000" pansize="10.000" level="0.500" tilt="-4.840" tiltsize="10.000" loop="4" nodechangekeep="0" startmutedmobile="0">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <image rotz="1.000" height="1728" id="Element02" roty="0.000" fov="7.930" handcursor="0" pan="-280.230" width="1175" clickmode="4" tilt="-34.310" rotx="-29.000" stretch="1.000">
+        <source url="media/J_eddL_w.jpeg"/>
+      </image>
+      <image rotz="3.000" height="1750" id="Element04" roty="4.000" fov="7.820" handcursor="0" pan="-243.460" width="1169" clickmode="4" tilt="-34.610" rotx="-30.000" stretch="1.000">
+        <source url="media/Mt3WqTcw.jpeg"/>
+      </image>
+      <image rotz="1.000" height="2354" id="Element03" roty="0.000" fov="6.610" handcursor="0" pan="-260.490" width="1856" clickmode="4" tilt="-37.640" rotx="-29.000" stretch="1.000">
+        <source url="media/Foerster pictures0029.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomafteroutfov="20" type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" softedge="0" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <autorotate delay="5.00" nodedelay="0.00" noderandom="1" startloaded="0" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" speed="0.020"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" contextprojections="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input height="2273" levelbias="0.400" width="2273" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelingpitch="0">
+      <level height="2273" width="2273" preload="0" predecode="0"/>
+      <level height="1136" width="1136" preload="0" predecode="0"/>
+      <level height="568" width="568" preload="0" predecode="0"/>
+      <level height="284" width="284" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-40.2664" tilt="-5.28768" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node30" customnodeid="" tags="9.7 Middle Front Room" latitude="" title="" heading="0" source="" info="" longitude="" description="" author="" copyright="" datetime="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" backgroundalpha="1" width="180" background="1" borderalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-250.68" title="" tilt="-0.03" url="{node29}" description="" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-21.05" title="" tilt="-4.24" url="{node33}" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound id="Element01" mode="2" pan="-7.220" field="90.000" ambientlevel="0.000" pansize="10.000" level="0.500" tilt="-7.990" tiltsize="10.000" loop="4" nodechangekeep="0" startmutedmobile="0">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <video tilt="-10.920" rotz="4.000" pansize="10.000" mode="2" fov="7.023" tiltsize="10.000" loop="1" stretch="1.000" height="1746" ambientlevel="0.000" startmutedmobile="0" width="1192" pan="-62.640" rotx="-20.000" id="Element02" field="90.000" nodechangekeep="0" clickmode="1" roty="6.000" level="1.000" handcursor="0">
+        <source url="media/gvideo.mp4"/>
+      </video>
+    </media>
+    <transition zoomout="0" zoomafteroutfov="20" type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" softedge="0" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <autorotate delay="5.00" nodedelay="0.00" noderandom="1" startloaded="0" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" speed="0.020"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" contextprojections="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input height="2272" levelbias="0.400" width="2272" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelingpitch="0">
+      <level height="2272" width="2272" preload="0" predecode="0"/>
+      <level height="1136" width="1136" preload="0" predecode="0"/>
+      <level height="568" width="568" preload="0" predecode="0"/>
+      <level height="284" width="284" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-16.4816" tilt="-7.39602" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node33" customnodeid="" tags="9.8 By TV Front Room" latitude="" title="" heading="0" source="" info="" longitude="" description="" author="" copyright="" datetime="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderradius="1" wordwrap="1" backgroundalpha="1" width="180" background="1" borderalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-216.84" title="" tilt="-4.76" url="{node30}" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound id="Element01" mode="2" pan="-164.720" field="90.000" ambientlevel="0.000" pansize="10.000" level="0.500" tilt="5.170" tiltsize="10.000" loop="4" nodechangekeep="0" startmutedmobile="0">
+        <source url="media/Grandpa_s air conditioning.mp3"/>
+      </sound>
+      <video tilt="-17.480" rotz="-5.000" pansize="10.000" mode="1" fov="11.539" tiltsize="10.000" loop="4" stretch="1.000" height="1746" ambientlevel="0.000" startmutedmobile="0" width="1192" pan="-102.500" rotx="-17.000" id="Element02" field="90.000" nodechangekeep="0" clickmode="2" roty="-14.000" level="1.000" handcursor="0">
+        <source url="media/gvideo.mp4"/>
+      </video>
+      <image rotz="-3.000" height="1162" id="Element03" roty="0.000" fov="6.268" handcursor="0" pan="-286.850" width="1769" clickmode="4" tilt="-4.750" rotx="-9.000" stretch="1.000">
+        <source url="media/1SKM8x9Q.jpeg"/>
+      </image>
+      <image rotz="15.000" height="400" id="Element04" roty="18.000" fov="14.280" handcursor="0" pan="-313.250" width="600" clickmode="4" tilt="-26.990" rotx="-29.000" stretch="1.000">
+        <source url="media/Bubba-01.png"/>
+      </image>
+      <image rotz="-1.000" height="400" id="Element05" roty="-20.000" fov="8.288" handcursor="0" pan="-289.820" width="600" clickmode="4" tilt="1.420" rotx="-6.000" stretch="1.000">
+        <source url="media/wedding r-01.png"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomafteroutfov="20" type="crossdissolve" blendtime="1" zoomin="0" blendcolor="0x000000" softedge="0" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <autorotate delay="5.00" nodedelay="0.00" noderandom="1" startloaded="0" nodefilter="" returntohorizon="0.000" useanimation="0" enabled="1" speed="0.020"/>
+    <flyintransition enabled="1" speed="0.50"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedmouse="0" contextprojections="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" customnodeid="" tags="" latitude="" title="" heading="0" source="" info="" longitude="" description="" author="" copyright="" datetime="" comment=""/>
+  </masternode>
+</tour>
